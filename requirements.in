@@ -1,0 +1,7 @@
+jupyterlab
+numpy
+matplotlib
+tensorflow-macos==2.9.2
+keras-rl2==1.0.4
+gym
+pygame
